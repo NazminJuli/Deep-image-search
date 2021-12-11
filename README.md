@@ -1,5 +1,5 @@
 
-Deep transfer learning based similar image search from directory according to **similarity matrix**
+Deep transfer learning based similar image search from directory according to ***similarity matrix***
 
 **# # # # # # # # # # # # # #**
 
